@@ -61,15 +61,14 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Built with 
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [Flutter](https://flutter.dev/) - Flutter facilitates rapid mobile app development by simplifying UI design, state management, animation, and networking tasks through its comprehensive framework.
+- [Google Maps](https://www.google.com/maps) - Google Maps streamlines location-based services, offering simplified integration for mapping, geocoding, and route planning, enabling swift development of location-aware applications.
 
 
 ## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
+- Firebase will be integrated.
+- Doctor pages will be completed.
+- Additions will be made to patient pages.
 
 ## Team
 
