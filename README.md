@@ -73,7 +73,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Yenal Yılmaz](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/yenalyilmaz)  | [![Sude Nur Kömür](https://github.com/sudenurkomur/Myelin-App/blob/main/Photo/zyro-image.png)](https://github.com/sudenurkomur)
+[![Yenal Yılmaz](https://github.com/sudenurkomur/Myelin-App/blob/main/Photo/3EAFA79E-1DC9-4F15-9457-0ABF2A2A80C0.jpeg)](https://github.com/yenalyilmaz)  | [![Sude Nur Kömür](https://github.com/sudenurkomur/Myelin-App/blob/main/Photo/zyro-image.png)](https://github.com/sudenurkomur)
 ---|---
 [Yenal Yılmaz ](https://github.com/yenalyilmaz) |[Sude Nur Kömür](https://github.com/sudenurkomur)
 
