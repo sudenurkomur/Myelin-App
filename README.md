@@ -8,6 +8,9 @@
 Doctors can also view the stage their patients are in and the medications they have used in the past through the application. In this way, the doctor aims to ensure circulation among his patients.                                                                                                       
 Patients can also enter the date they started taking their medications as an application entry, and the application reminds patients to take their medications with a reminder.
 *The part that excites us the most is that doctors manually apply this system to their patients. Thanks to this system, it is aimed to find solutions to the sustainability problems of Healthy and Quality Life and Responsible Production consumption items.*
+
+# ![MyelinApp](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/Ads%C4%B1z%20(7%20x%207%20cm).jpeg)
+
 </td>
 </tr>
 </table>
