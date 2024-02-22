@@ -20,20 +20,16 @@ Patients can also enter the date they started taking their medications as an app
 Here is a working live demo :  [MyelinApp - GDSC SOLUTION CHALLENGE 2024](https://www.youtube.com/watch?v=fiYZ9n-E57M)
 
 
-## Site
+## Users Type
 
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
+### Doctor
+There are features such as adding patients, imaging medication and disease stage tracking, and medication requests.
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/DoctorPages.png)
 
-### Query Filled Form
+### Patient
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
 
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
 
 
 
