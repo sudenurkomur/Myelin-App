@@ -1,9 +1,13 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# ![MyelinApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
 # MyelinApp
 <table> 
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+ MS patients use different medications at each stage. For example, when a patient in the second stage moves to the third stage, he cannot use medication. This is true not only for MS patients but also for other diseases.These drugs are very expensive and difficult to find. Our team noticed this gap and decided to develop an application.
+
+Doctors can also view the stage their patients are in and the medications they have used in the past through the application. In this way, the doctor aims to ensure circulation among his patients.                                                                                                       
+Patients can also enter the date they started taking their medications as an application entry, and the application reminds patients to take their medications with a reminder.
+*The part that excites us the most is that doctors manually apply this system to their patients. Thanks to this system, it is aimed to find solutions to the sustainability problems of Healthy and Quality Life and Responsible Production consumption items.*
 </td>
 </tr>
 </table>
@@ -34,29 +38,6 @@ The WebApp is compatible with devices of all sizes and all OS's, and consistent 
 
 ![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
 
-
-
-
-## [Usage](https://iharsh234.github.io/WebApp/) 
-
-### Development
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
 
 
 ## Built with 
