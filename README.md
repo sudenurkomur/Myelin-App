@@ -28,7 +28,9 @@ There are features such as adding patients, imaging medication and disease stage
 ![](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/DoctorPages.png)
 
 ### Patient
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+From the moment the doctors take the medications prescribed to the patients, they can enter the application and view how much they have used. Patients will also be reminded to take medication.
+
+![](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/PatientPages.png)
 
 
 
