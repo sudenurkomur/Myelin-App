@@ -33,12 +33,6 @@ Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol wil
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
 
 
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
-
-
 
 ## Built with 
 
