@@ -17,7 +17,7 @@ Patients can also enter the date they started taking their medications as an app
 
 
 ## Demo
-Here is a working live demo :  LİNK EKLENECEK
+Here is a working live demo :  (https://www.youtube.com/watch?v=fiYZ9n-E57M)
 
 
 ## Site
