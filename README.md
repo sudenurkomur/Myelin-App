@@ -48,7 +48,8 @@ From the moment the doctors take the medications prescribed to the patients, the
 
 ## Team
 
-[![Yenal Yılmaz](https://github.com/sudenurkomur/Myelin-App/blob/main/Photo/3EAFA79E-1DC9-4F15-9457-0ABF2A2A80C0.jpeg)](https://github.com/yenalyilmaz)  | [![Sude Nur Kömür]()](https://github.com/sudenurkomur/Myelin-App/blob/main/Photo/zyro-image.jpeg)
+[![Yenal Yılmaz](https://github.com/sudenurkomur/Myelin-App/blob/main/Photo/3EAFA79E-1DC9-4F15-9457-0ABF2A2A80C0.jpeg)](https://github.com/yenalyilmaz)  | [![Sude Nur Kömür](https://github.com/sudenurkomur/Myelin-App/blob/main/Photo/zyro-image.jpeg)](https://github.com/sudenurkomur)
 ---|---
 [Yenal Yılmaz ](https://github.com/yenalyilmaz) |[Sude Nur Kömür](https://github.com/sudenurkomur)
+
 
