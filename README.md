@@ -1,55 +1,16 @@
-# ![MyelinApp](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/UsersTypePage.jpeg)
-# MyelinApp
-<table> 
-<tr>
-<td>
- MS patients use different medications at each stage. For example, when a patient in the second stage moves to the third stage, he cannot use medication. This is true not only for MS patients but also for other diseases.These drugs are very expensive and difficult to find. Our team noticed this gap and decided to develop an application.
+# deneme
 
-Doctors can also view the stage their patients are in and the medications they have used in the past through the application. In this way, the doctor aims to ensure circulation among his patients.                                                                                                       
-Patients can also enter the date they started taking their medications as an application entry, and the application reminds patients to take their medications with a reminder.
-*The part that excites us the most is that doctors manually apply this system to their patients. Thanks to this system, it is aimed to find solutions to the sustainability problems of Healthy and Quality Life and Responsible Production consumption items.*
+A new Flutter project.
 
-   # ![MyelinApp](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/SustainabilityGoals.jpeg)
+## Getting Started
 
-</td>
-</tr>
-</table>
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-## Demo
-Here is a working live demo :  [MyelinApp - GDSC SOLUTION CHALLENGE 2024](https://www.youtube.com/watch?v=fiYZ9n-E57M)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-## Users Type
-
-### Doctor
-There are features such as adding patients, imaging medication and disease stage tracking, and medication requests.
-
-![](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/DoctorPages.png)
-
-### Patient
-From the moment the doctors take the medications prescribed to the patients, they can enter the application and view how much they have used. Patients will also be reminded to take medication.
-
-![](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/PatientPages.png)
-
-
-
-
-## Built with 
-
-- [Flutter](https://flutter.dev/) - Flutter facilitates rapid mobile app development by simplifying UI design, state management, animation, and networking tasks through its comprehensive framework.
-- [Google Maps](https://www.google.com/maps) - Google Maps streamlines location-based services, offering simplified integration for mapping, geocoding, and route planning, enabling swift development of location-aware applications.
-
-
-## To-do
-- Firebase will be integrated.
-- Doctor pages will be completed.
-- Additions will be made to patient pages.
-
-## Team
-
-[![Yenal Yılmaz](https://github.com/sudenurkomur/Myelin-App/blob/main/Photo/3EAFA79E-1DC9-4F15-9457-0ABF2A2A80C0.jpeg)](https://github.com/yenalyilmaz)  | [![Sude Nur Kömür](https://github.com/sudenurkomur/Myelin-App/blob/main/Photo/zyro-image.jpeg)](https://github.com/sudenurkomur)
----|---
-[Yenal Yılmaz ](https://github.com/yenalyilmaz) |[Sude Nur Kömür](https://github.com/sudenurkomur)
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
