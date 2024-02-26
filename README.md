@@ -1,5 +1,5 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
+# ![MyelinApp](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/UsersTypePage.jpeg)
+# MyelinApp
 <table>
 <tr>
 <td>
