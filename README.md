@@ -13,15 +13,17 @@
 Here is a working live demo :  https://www.youtube.com/watch?v=fiYZ9n-E57M
 
 
-## Site
+## Users Type
 
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
+### Doctor
+There are features such as adding patients, imaging medication and disease stage tricking , and medication requests.
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/DoctorPages.png)
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+### Patient
+From the moment the doctors take the medications prescribed to the patients, they can enter the application and view how much they have used. Patients will also be reminded to take medication.
+
+![](https://github.com/sudenurkomur/Myelin-App/blob/main/Pages/PatientPages.png)
 
 
 
