@@ -3,7 +3,8 @@
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+  MS patients use different medications at each stage. For example, when a patient in the second stage moves to the third stage, hecannot use medication. This is true not only for MS patients but also for other diseases. These drugs are very expensive and difficult tofind. Our team noticed this gap and decided to develop an application. Doctors can also view the stage their patients are in and the medications they have used in the past through the application. In this way, the doctor aims to ensure circulation among his patients.
+Patients can also enter the date they started taking their medications as an application entry, and the application reminds patients to take their medications with a reminder. The part that excites us the most is that doctors manually apply this system to their patients. Thanks to this system, it is aimed to find solutions to the sustainability problems of Healthy and Quality Life and Responsible Production consumption items.
 </td>
 </tr>
 </table>
@@ -29,9 +30,8 @@ From the moment the doctors take the medications prescribed to the patients, the
 
 ## Built with 
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [Flutter](https://flutter.dev/) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
+- [Google Maps](https://www.google.com/maps) - Free , Rich Gallery , Customizable and Cross-browser compatible.
 
 
 ## To-do
